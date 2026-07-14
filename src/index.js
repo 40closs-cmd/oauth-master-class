@@ -4,7 +4,7 @@ window.onload = () => {
       {
         client_id: "d2d2fa67cf9943638850a5c9d9882bef",
         response_type: "token",
-        redirect_uri: "https://oauth.yandex.ru/verification_code",
+        redirect_uri: "https://oauth-master-class-git-main-chitoitssu.vercel.app/token.html",
       },
       "https://oauth-master-class-git-main-chitoitssu.vercel.app",
       {
